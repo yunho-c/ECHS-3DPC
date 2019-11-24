@@ -3,7 +3,7 @@ title: ECHS 3DPC
 subtitle: ": 3D Printing Club"
 email: yhjc2692@gmail.com
 description: Spreading the joy of 3D Printing
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: http://echs3dp.club # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
