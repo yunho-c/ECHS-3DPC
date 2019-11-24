@@ -5,13 +5,13 @@ email: yhjc2692@gmail.com
 description: Spreading the joy of 3D Printing
 baseurl: / # the subpath of your site, e.g. /blog
 url: http://echs3dp.club # the base hostname & protocol for your site
-author:
+author: 
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Sharpsburg
+state: GA
+zip_code: 30265
 country: United States of America
-phone: (716) 555-5555
+phone: (678) 467-9291
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
