@@ -1,8 +1,8 @@
 # site settings
 title: ECHS 3DPC
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+subtitle: : 3D Printing Club
+email: yhjc2692@gmail.com
+description: Spreading the joy of 3D Printing
 baseurl: "/ECHS-3DPC" # the subpath of your site, e.g. /blog
 url: https://k2m5t2.github.io # the base hostname & protocol for your site
 author:
