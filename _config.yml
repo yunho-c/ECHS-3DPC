@@ -1,6 +1,6 @@
 # site settings
 title: ECHS 3DPC
-subtitle: : 3D Printing Club
+subtitle: ": 3D Printing Club"
 email: yhjc2692@gmail.com
 description: Spreading the joy of 3D Printing
 baseurl: "/ECHS-3DPC" # the subpath of your site, e.g. /blog
