@@ -6,12 +6,12 @@ description: Spreading the skill of engineering, the joy of 3D Printing
 baseurl: # the subpath of your site, e.g. /blog
 url: http://echs3dp.club # the base hostname & protocol for your site
 author: Jason Cho
-street_address: 1234 Somewhere Road
-city: Sharpsburg
-state: GA
-zip_code: 30265
-country: United States of America
-phone: (678) 467-9291
+street_address: Room 2##
+city: 9th Grade Building
+state: 1st
+zip_code: floor
+country: East Coweta High School
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
