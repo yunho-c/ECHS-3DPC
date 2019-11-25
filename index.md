@@ -9,5 +9,5 @@ show_tile: false
 ---
 
 This is the website for 3D Printing Club of East Coewta High School.
-This is a test message. Club president is Jonathan Pearson. Vice-president is Jason Cho. Sponsoring teacher is Mrs. Anna Henry. 
+This is a test message. Club president is Jonathan Pearson. Jason Cho is nothing. Sponsoring teacher is Mrs. Anna Henry. 
 

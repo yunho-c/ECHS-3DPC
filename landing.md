@@ -1,5 +1,5 @@
 ---
-title: Example123
+title: Landing
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn less</a></li>
 				</ul>
 			</div>
 		</div>
@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Get Stopped</a></li>
 		</ul>
 	</div>
 </section>
