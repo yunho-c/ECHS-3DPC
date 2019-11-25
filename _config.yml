@@ -1,11 +1,11 @@
 # site settings
-title: ECHS 3DPC
-subtitle: ": 3D Printing Club"
+title: 3DPC
+subtitle: "at ECHS"
 email: yhjc2692@gmail.com
-description: Spreading the joy of 3D Printing
+description: Spreading the skill of engineering, the joy of 3D Printing
 baseurl: # the subpath of your site, e.g. /blog
 url: http://echs3dp.club # the base hostname & protocol for your site
-author: 
+author: Jason Cho
 street_address: 1234 Somewhere Road
 city: Sharpsburg
 state: GA
@@ -18,16 +18,16 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+500px_url: 
+facebook_url: 
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
