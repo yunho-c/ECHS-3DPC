@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Print Request</h1>
+			<h1>3D Printing Request</h1>
 		</header>
 
 <!-- Content -->
@@ -41,6 +41,11 @@ nav-menu: true
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
+
+<!-- Content2 -->
+<h2 id="content">We print for free!</h2>
+<p>To print a model, simply copy its link (from Thingiverse.com or Google Drive, if you've created the model) and paste it
+		in the form below.</p>
 
 <hr class="major" />
 
