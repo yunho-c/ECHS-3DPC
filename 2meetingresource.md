@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title: Meeting Resources
 description: 'Next meeting: 12/3/2019 Thursday'
 image: assets/images/meeting_preview.jpg
 nav-menu: true
 ---
+<div id="main" class="alt">
 
 <!-- Two -->
 <section id="two" class="spotlights">
