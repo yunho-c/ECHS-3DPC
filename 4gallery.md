@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-image: assets/images/gallery_preview_opt.jpg
+image: assets/images/gallery_preview.jpg
 nav-menu: true
 ---
 

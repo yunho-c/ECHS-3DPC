@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meeting Resources
-description: 'Next meeting: 12/3/2019 Thursday'
+description: 'Next meeting: 12/3/2019 Tuesday'
 image: assets/images/meeting_preview.jpg
 nav-menu: true
 ---
@@ -11,12 +11,12 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/r1.jpg" alt="" data-position="center center" />
+			<img src="assets/images/r2.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>12/3/2019 Thursday</h3>
+					<h3>1st meeting of December: 12/3/2019 Tuesday </h3>
 				</header>
 				<p>Starts at 3:40 PM, ends at 4:20 PM. <br />
                 We will share our plans for the next couple months, starting with some new printers and new website. <br />
