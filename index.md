@@ -8,6 +8,5 @@ author: null
 show_tile: false
 ---
 
-This is the website for 3D Printing Club of East Coewta High School.
-This is a test message. Club president is Jonathan Pearson. Jason Cho is nothing. Sponsoring teacher is Mrs. Anna Henry. 
-
+We hold meetings on Tuesdays and Thursdays of 1st and 3rd weeks of the month <br />
+Please feel free to take a visit, or reach out to echs3dpc@gmail.com using the form below.
