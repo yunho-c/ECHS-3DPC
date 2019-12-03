@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Something Printed!
+title: Request 3D Prints
 nav-menu: true
 ---
 

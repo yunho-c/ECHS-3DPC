@@ -2,7 +2,7 @@
 layout: post
 title: Meeting Resources
 description: 'Next meeting: 12/3/2019 Thursday'
-image: assets/images/pic11.jpg
+image: assets/images/meeting_preview.jpg
 nav-menu: true
 ---
 
@@ -10,14 +10,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/r1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>12/3/2019 Thursday</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Starts at 3:40 PM, ends awt 4:20 PM. <br />
+                We will share our plans for the next couple months, starting with some new printers and new website. <br />
+                Then, we will watch some interesting videos about CAD and then hang around. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
