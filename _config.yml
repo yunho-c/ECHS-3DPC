@@ -17,7 +17,7 @@ city: 9th Grade Building
 state: 1st
 zip_code: floor
 country: East Coweta High School
-phone: (123) 456-7890
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
