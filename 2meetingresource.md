@@ -18,7 +18,7 @@ nav-menu: true
 				<header class="major">
 					<h3>12/3/2019 Thursday</h3>
 				</header>
-				<p>Starts at 3:40 PM, ends awt 4:20 PM. <br />
+				<p>Starts at 3:40 PM, ends at 4:20 PM. <br />
                 We will share our plans for the next couple months, starting with some new printers and new website. <br />
                 Then, we will watch some interesting videos about CAD and then hang around. </p>
 				<ul class="actions">
