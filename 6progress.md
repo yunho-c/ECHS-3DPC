@@ -1,8 +1,8 @@
 ---
-title: About 3DPC
+title: Progress
 layout: landing
-description: 'Our mission, vision, goals, progress, and more<br />'
-image: assets/images/pic07.jpg
+description: 'How far we've gotten so far<br />'
+image: assets/images/whiteboard.jpg
 nav-menu: true
 ---
 

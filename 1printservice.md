@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Request 3D Prints
+image: assets/images/3dprinting.jpg
 nav-menu: true
 ---
 

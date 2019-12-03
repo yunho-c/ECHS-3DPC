@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Fundraising
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: coming soon
+image: assets/images/fundraising_preview.jpg
 nav-menu: true
 ---
 
-Coming soon.
-(This is how we'll get rich!)
+Currently, there is no ongoing fundraising.
