@@ -7,12 +7,12 @@
 title: ECHS 3DPC
 subtitle: 
 email: yhjc2692@gmail.com
-description: We spread the joy of 3D Printing in ECHS
+description: We spread the joy of 3D Printing
 baseurl: ''
 # the subpath of your site, e.g. /blog
 url: http://echs3dp.club # the base hostname & protocol for your site
 author: Jason Cho
-street_address: Room 2##
+street_address: Room 1##
 city: 9th Grade Building
 state: 1st
 zip_code: floor
@@ -31,7 +31,7 @@ gitlab_url:
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
-pinterest_url:
+pinterest_url: 
 slack_url:
 twitter_url: 
 

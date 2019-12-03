@@ -1,7 +1,7 @@
 ---
 title: About 3DPC
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Our mission, vision, goals, progress, and more<br />'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

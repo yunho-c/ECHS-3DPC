@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Something Printed!
+title: Gallery
 nav-menu: true
 ---
 
