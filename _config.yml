@@ -6,7 +6,7 @@
 # site settings
 title: ECHS 3DPC
 subtitle: 
-email: yhjc2692@gmail.com
+email: echs3dpc@gmail.com
 description: We spread the joy of 3D Printing
 baseurl: ''
 # the subpath of your site, e.g. /blog
@@ -21,7 +21,7 @@ phone: (123) 456-7890
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url: http://echs.cowetaschools.net/
