@@ -10,7 +10,7 @@ email: echs3dpc@gmail.com
 description: We spread the joy of 3D Printing
 baseurl: ''
 # the subpath of your site, e.g. /blog
-url: http://echs3dp.club # the base hostname & protocol for your site
+url: https://echs3dp.club # the base hostname & protocol for your site
 author: Jason Cho
 street_address: Room 1##
 city: 9th Grade Building
@@ -24,7 +24,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 8
 
 # social settings
-500px_url: http://echs.cowetaschools.net/
+500px_url: https://echs.cowetaschools.net/
 facebook_url: 
 github_url: 
 gitlab_url: 
