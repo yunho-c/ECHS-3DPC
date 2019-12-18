@@ -1,13 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'East Coweta High School 3D Printing Club'
+landing-title: 'Welcome!'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-We hold meetings on Tuesdays and Thursdays of 1st and 3rd weeks of the month
-at Mrs. Henry's room (###). <br />
-Feel free to join us in the meeting or reach out to us using the form below.
+Feel free to join or visit us in any of our meetings! 
+<br /> Or, reach out to us using the form below.
