@@ -12,7 +12,7 @@ baseurl: ''
 # the subpath of your site, e.g. /blog
 url: https://echs3dp.club # the base hostname & protocol for your site
 author: Jason Cho
-street_address: Room 1##
+street_address: Room 146
 city: 9th Grade Building
 state: 1st
 zip_code: floor
