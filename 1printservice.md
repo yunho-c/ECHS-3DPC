@@ -2,6 +2,7 @@
 layout: page
 title: Request Your Print!
 image: assets/images/3dprinting.jpg
+description: printed within 2 days
 nav-menu: true
 ---
 
