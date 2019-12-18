@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Display
 image: assets/images/gallery_preview.jpg
 nav-menu: true
 ---

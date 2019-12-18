@@ -3,6 +3,7 @@ layout: page
 title: Progress
 nav-menu: true
 image: assets/images/whiteboard.jpg
+description: 'How far have we gotten so far?'
 ---
 
 

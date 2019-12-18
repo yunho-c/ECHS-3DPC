@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meeting Resources
+title: Meetings
 description: 'Next meeting: 12/3/2019 Tuesday'
 image: assets/images/meeting_preview.jpg
 nav-menu: true
