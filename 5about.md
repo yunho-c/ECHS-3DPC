@@ -2,7 +2,7 @@
 title: About 3DPC
 layout: landing
 description: 'Our story, mission, ambitions, and more<br />'
-image: assets/images/pic07.jpg
+image: assets/images/about.jpg
 nav-menu: true
 ---
 

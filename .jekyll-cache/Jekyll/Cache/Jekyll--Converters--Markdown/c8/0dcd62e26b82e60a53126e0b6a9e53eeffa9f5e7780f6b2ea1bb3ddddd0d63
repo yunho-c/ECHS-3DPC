@@ -1,0 +1,34 @@
+I"<div id="main" class="alt">
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>3DPC Gallery</h1>
+		</header>
+
+<span class="image fit"><img src="assets/gallery/0benchy.jpg" alt="" /></span>
+<center><h3>Design Anything Competition: "Benchy" by Josef</h3></center>
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/gallery/-1vase.jpg" alt="" /></span>
+		<center><h5>Vase Competition: "Vase" by Thingiverse</h5></center>
+		</div>
+		<div class="4u"><span class="image fit"><img src="assets/gallery/-2vase2.jpg" alt="" /></span>
+		<center><h5>Another Competition: "Aase" by asdf</h5></center>
+		</div>
+		<div class="4u$"><span class="image fit"><img src="assets/gallery/-3adapter.jpg" alt="" /></span>
+		<center><h5>Vase Competition: "Vase" by Thingiverse</h5></center>
+		</div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/gallery/0benchy.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/gallery/-1vase.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/gallery/-2vase2.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/gallery/-3adapter.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/gallery/-1vase.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/gallery/-2vase2.jpg" alt="" /></span></div>
+	</div>
+</div>
+</div></section></div>
+:ET
