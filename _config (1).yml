@@ -1,0 +1,42 @@
+# Contents to Add
+# -Upcoming Competitions
+# -Brainstorming Page
+# -Gallery: Previous Projects
+
+# site settings
+title: ECHS 3DPC
+subtitle: 
+email: echs3dpc@gmail.com
+description: We spread the joy of 3D Printing
+baseurl: ''
+# the subpath of your site, e.g. /blog
+url: http://echs3dp.club # the base hostname & protocol for your site
+author: Jason Cho
+street_address: Room 1##
+city: 9th Grade Building
+state: 1st
+zip_code: floor
+country: East Coweta High School
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 8
+
+# social settings
+500px_url: http://echs.cowetaschools.net/
+facebook_url: 
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url: 
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
