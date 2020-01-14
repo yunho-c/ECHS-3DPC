@@ -170,13 +170,16 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Thingiverse</h3>
+		<div class="12u"><span class="image fit"><img src="assets/images/printservice_Thingiverse.jpg" alt="" /></span>
 		<p>Thingiverse is a website dedicated to the sharing of user-created digital design files. Thingiveerse is often used as a repository for shared innovation and dissemination of source materials to the public. Many of the objects are for the purpose of repair, decoration, or organization.
 		<br>
 		<b><a href="https://www.thingiverse.com/">Check it out!</a></b>
 		</p>
+		</div>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Fusion 360</h3>
+		<div class="12u"><span class="image fit"><img src="assets/images/printservice_F360.jpg" alt="" /></span></div>
 		<p>Autodesk Fusion 360 is a commercial 3D CAD modeling software, considered by many as a program that unites the best tools from cutting-edge programs like Rhino, Inventor, SolidWorks, Vault, and AutoCAD. Autodesk offers a full version of Fusion 360 for free to students. 
 		<br>
 		<b><a href="https://www.autodesk.com/products/fusion-360/overview">Check it out!</a></b>
@@ -184,6 +187,7 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Blender</h3>
+		<div class="12u"><span class="image fit"><img src="assets/images/printservice_Blender.jpg" alt="" /></span>
 		<p>
 		<b><a href="https://www.blender.org/">Blender</a></b> is a free and open source 3D creation suite, supporting the entirety of the 3D pipeline. <br>
 		At the moment, Blender is one of the most powerful (and easiest to learn) mesh-based 3D modeling software, being used alongside CAD software to design 3D-printed parts. 
@@ -192,3 +196,7 @@ nav-menu: true
 		</p>
 	</div>
 </div>
+
+
+
+	

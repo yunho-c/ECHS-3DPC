@@ -1,0 +1,33 @@
+I"<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Mission</h2>
+		</header>
+		<p><code>Spread the joy of 3D Printing in ECHS and beyond.</code></p>
+	</div>
+</section>
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>What Do You Mean Exactly?</h2>
+		</header>
+		<p>3D printing is definitely a topic with a <b>potential to get everyone excited.</b> However, we figured that running a school club to promote 3D printing without a larger competition or group (ie. Science Olympiad, Mu Alpha Theta) is a <b>demanding challenge.</b> <br /> <br />
+		For our school, we see the 3D Printing Club as a community to fulfill non-academic passion for our students, especially our STEM students too, since engineering classes and extracurriculars are not offered in our school. <br />
+		For others, we want the 3D Printing Club to be an open experiment, figuring out what works and what doesn't work to get people excited and initiate a successful and passion-driven engineering community. <br />
+		Our master plan is to initiate, grow, and maintain the 3D Printing Club in  
+		
+		</p>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Get Stopped</a></li>
+		</ul>
+	</div>
+</section>
+
+</div>
+:ET

@@ -1,0 +1,191 @@
+I"m<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		
+
+<h1><center>Request your print!</center></h1>
+
+<h2 id="content">Upload</h2>
+<p>
+	Name your file as:
+		<code>[file name]-[your name]-[# of parts].stl</code>.
+		Then, <strong>upload the 3D model</strong> onto the <b><a href="https://drive.google.com/drive/folders/1-ehtsKHGhbgK0R_gDrfr2BErHy9SXPU-?usp=sharing">3DPC Shared Folder</a></b>!	
+</p>
+
+<hr class="breakline1" />
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Format</h3>
+		<p>
+			<ul>
+				<li><code>[file name]</code> should recognizable and descriptive of the model.</li>
+				<li>Upload the model in <code>stl</code> file format.  <br />
+				Look for <code>.stl</code> (stereolithography) export option in CAD.</li>
+				<li>The maximum print size is <code>220 mm * 220 mm * 250 mm</code>.</li>
+			</ul>
+		</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Details</h3>
+		<p>
+		<ul>
+			<li>Dimensions Scaling (% original or largest dimension)</li>
+			<li>Special Mode (ex. Vase, Spaghetti)</li>
+			<li>Specific Color Filament</li>
+			<li>Additional Reinforcement (for mechanical parts)</li>
+		</ul>
+		For any specific detail (including the options above), <br /> 
+		place a _ before <code>file name</code> and submit the form below.
+		</p>
+		<h4>Example</h4>
+		<code>_3DBenchy-JonathanPearson.stl</code> <br />
+		<blockquote>Please scale the model to 60% its original size (largest dimension approx. 60 mm) and orient it so that the hull of the ship is facing down, as well as turning off the support.</blockquote>
+	</div>
+</div>
+
+<hr class="breakline2" />
+
+<div class="row uniform">
+
+<!-- Table -->
+
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Class</th>
+				<th>Description</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>I</td>
+				<td>Simple Print</td>
+				<td>free</td>
+			</tr>
+			<tr>
+				<td>II</td>
+				<td>Moderately Big Print</td>
+				<td>free</td>
+			</tr>
+			<tr>
+				<td>III</td>
+				<td>Really Big Print (<code>~&gt;150mm^3</code>)</td>
+				<td>$5.00</td>
+			</tr>
+			<tr>
+				<td>F</td>
+				<td>3D Printing Club Fundraising Purposes</td>
+				<td>free</td>
+			</tr>
+			<tr>
+				<td>P</td>
+				<td>School Projects Purposes</td>
+				<td>free</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<!-- Form -->
+
+<h3></h3>
+<h3></h3>
+
+<form method="post" action="#">
+	<div class="row uniform">
+		<div class="6u 12u$(xsmall)">
+			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+		</div>
+		<div class="6u$ 12u$(xsmall)">
+			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+		</div>
+		<!-- Break -->
+		<div class="12u$">
+			<div class="select-wrapper">
+				<select name="demo-category" id="demo-category">
+					<option value="">- Category -</option>
+					<option value="1">Manufacturing</option>
+					<option value="1">Shipping</option>
+					<option value="1">Administration</option>
+					<option value="1">Human Resources</option>
+				</select>
+			</div>
+		</div>
+		<!-- Break -->
+		<div class="4u 12u$(small)">
+			<input type="radio" id="demo-priority-low" name="demo-priority" checked="" />
+			<label for="demo-priority-low">Low</label>
+		</div>
+		<div class="4u 12u$(small)">
+			<input type="radio" id="demo-priority-normal" name="demo-priority" />
+			<label for="demo-priority-normal">Normal</label>
+		</div>
+		<div class="4u$ 12u$(small)">
+			<input type="radio" id="demo-priority-high" name="demo-priority" />
+			<label for="demo-priority-high">High</label>
+		</div>
+		<!-- Break -->
+		<div class="6u 12u$(small)">
+			<input type="checkbox" id="demo-copy" name="demo-copy" />
+			<label for="demo-copy">Email me a copy</label>
+		</div>
+		<div class="6u$ 12u$(small)">
+			<input type="checkbox" id="demo-human" name="demo-human" checked="" />
+			<label for="demo-human">I am a human</label>
+		</div>
+		<!-- Break -->
+		<div class="12u$">
+			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+		</div>
+		<!-- Break -->
+		<div class="12u$">
+			<ul class="actions">
+				<li><input type="submit" value="Send Message" class="special" /></li>
+				<li><input type="reset" value="Reset" /></li>
+			</ul>
+		</div>
+	</div>
+</form>
+
+</div>
+
+<hr class="breakline3" />
+
+<h1><center>Need Models?</center></h1>
+<div class="row uniform">
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>Thingiverse</h3>
+		<div class="12u"><span class="image fit"><img src="assets/images/printservice_Thingiverse.jpg" alt="" /></span>
+		<p>Thingiverse is a website dedicated to the sharing of user-created digital design files. Thingiveerse is often used as a repository for shared innovation and dissemination of source materials to the public. Many of the objects are for the purpose of repair, decoration, or organization.
+		<br />
+		<b><a href="https://www.thingiverse.com/">Check it out!</a></b>
+		</p>
+		</div>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Fusion 360</h3>
+		<div class="12u"><span class="image fit"><img src="assets/images/printservice_F360.jpg" alt="" /></span>
+		<p>Autodesk Fusion 360 is a commercial 3D CAD modeling software, considered by many as a program that unites the best tools from cutting-edge programs like Rhino, Inventor, SolidWorks, Vault, and AutoCAD. Autodesk offers a full version of Fusion 360 for free to students. 
+		<br />
+		<b><a href="https://www.autodesk.com/products/fusion-360/overview">Check it out!</a></b>
+		</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Blender</h3>
+		<p>
+		<b><a href="https://www.blender.org/">Blender</a></b> is a free and open source 3D creation suite, supporting the entirety of the 3D pipeline. <br />
+		At the moment, Blender is one of the most powerful (and easiest to learn) mesh-based 3D modeling software, being used alongside CAD software to design 3D-printed parts. 
+		<br />
+		<b><a href="https://www.youtube.com/watch?v=MF1qEhBSfq4">Check it out!</a></b>
+		</p>
+	</div>
+</div>
+</div></div></section></div>
+:ET

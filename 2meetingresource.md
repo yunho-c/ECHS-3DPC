@@ -1,62 +1,145 @@
 ---
 layout: page
-title: Meetings
-description: 'Next meeting: 12/3/2019 Tuesday'
+title: Meeting Resources
+description: 'Next meeting: 1/22/2019 Monday'
 image: assets/images/meeting_preview.jpg
 nav-menu: true
 ---
 <div id="main" class="alt">
 
-<!-- Two -->
+<!-- Collage -->
 <section id="two" class="spotlights">
+	<!-- News -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/r2.jpg" alt="" data-position="center center" />
+			<img src="assets/images/meetings_2020.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>1st meeting of December: 12/3/2019 Tuesday </h3>
+					<h3>2020 is Up! </h3>
 				</header>
-				<p>Starts at 3:40 PM, ends at 4:20 PM. <br />
-                We will share our plans for the next couple months, starting with some new printers and new website. <br />
-                Then, we will watch some interesting videos about CAD and then hang around. </p>
+				<p>We hope we would be doing more exciting things in the 2nd semester, with the new
+				printer and new website. <br />
+                If you were not noticed yet, we are meeting on Mondays and Wednesdays (of 1st and 3rd weeks) from now on. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://spreadsheets.google.com" class="button">Download Meeting Schedules</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<!-- Upcoming Meeting -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/meetings_upcoming.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Monday, January 20: Da Vinci Jr. Disassembly</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We decided that the 3 Da Vinci Jr. are pretty much useless as of now, since they require the use
+				proprietary software which has gone obsolete. <br />
+				However, they still make very capable hardware, with decent build volume too ((codify)180 mm ^3).
+				Therefore, we will be converting their motherboard with SKR v1.3 (put href), a feature-packed motherboard
+				with 32-bit processing chip and Trinamic stepper motor drivers known to eliminate motor heat & noise. 
+				Today, we will be dissecting two Da Vincis and try to figure out how we will work with the wiring.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Details</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<!-- Collaboration -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/meetings_collaboration.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Meeting Activities Brainstorming</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Coming up with a good activity idea is kind of hard, so we would definitely
+				appreciate any more ideas into our brainstorming archive! Put anything you want to 
+				do in the meetings. 
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn less</a></li>
+					<li><a href="https://spreadsheets.google.com" class="button">Ideas Spreadsheet</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Previous Meeting -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_previous1.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Previous Meeting (1)</h3>
+				</header>
+				<p>This is to display the most recent meeting.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Previous Meeting (2) -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_previous2.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Previous Meeting (2)</h3>
+				</header>
+				<p>This is to display the second recent meeting.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Landmark Meeting (advertise) -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_landmark.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ender 3 Pro Build</h3>
+				</header>
+				<p>We spent the two weeks before Christmas break assembling Ender 3 Pro we purchased! <br />
+				Although the assembly did not last that long (since almost all 3D printers are semi-assembled nowadays) 
+				it was a refreshing experience and definitely was fun. </p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- More Meetings -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_more.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Meeting Logs</h3>
+				</header>
+				<p>Discover more of what we've done!</p>
+				<ul class="actions">
+					<li><a href="all_posts.html" class="button">Read the Logs</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
+

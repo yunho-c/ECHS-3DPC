@@ -13,75 +13,65 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Mission</h2>
 		</header>
-		<p>This is the first main text, hopefully?.</p>
+		<p><code>Spread the joy of 3D Printing in ECHS and beyond.</code></p>
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn less</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
 <!-- Three -->
-<section id="three">
+<section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>What Do You Mean Exactly?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>3D printing is definitely a topic with a <b>potential to get everyone excited.</b> However, we figured that running a school club to promote 3D printing without a larger competition or group (ie. Science Olympiad, Mu Alpha Theta) is a <b>demanding challenge.</b> <br > <br />
+		For our school, we see the 3D Printing Club as a <b>community to fulfill non-academic passion for our students</b>, especially our STEM students too, since engineering classes and extracurriculars are not offered in our school. <br />
+		For others, we want the 3D Printing Club to be an <b>open experiment</b>, figuring out what works and what doesn't work to get people excited and initiate a successful and passion-driven engineering community. </p>
+		<p>Our master plan is to <b>initiate, grow, and maintain the 3D Printing Club for a successful year, then document our experience to help anyone interested a little in recreating our adventures. 
+		</b></p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Stopped</a></li>
+			<li><a href="6progress.html" class="button next">Check Our Progress</a></li>
 		</ul>
 	</div>
 </section>
 
-</div>
+<!-- Collage -->
+<section id="two" class="spotlights">
+	<!-- Upcoming Meeting -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_upcoming.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Meet Our Printers</h3>
+				</header>
+				<p>We have three yet-to-be-named <code>XYZ Printing Da Vinci Jr.</code> and <b>Earl</b>, a <code>Creality3D Ender 3 Pro.</code> </p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Say hi to our printers</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Collaboration -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/meetings_collaboration.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Meet Our People</h3>
+				</header>
+				<p>Jonathan Pearson, Jason Cho, Mrs. Henry
+				</p>
+				<ul class="actions">
+					<li><a href="https://spreadsheets.google.com" class="button">Details</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+

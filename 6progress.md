@@ -12,6 +12,7 @@ description: 'How far have we gotten so far?'
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Progress!!!!!</h1>
-		</header>
+
+<div id="main" class="alt">
+
+<span class="image fit"><img src="assets/images/progress_rough.png" alt="" /></span>
